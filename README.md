@@ -1,5 +1,5 @@
 # event-sourcing-example
-A small example project for understanding the basic principles of event-sourcing
+A small example project for understanding the basic principles of event-sourcing, CQRS and DDD.
 
 # Stuff for studying
 ### Event Sourcing
